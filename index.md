@@ -9,6 +9,11 @@ user = "James Atkins"
 firstVar = "Hello World"
 ```
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ### Header 3
 
 #### Header 4
