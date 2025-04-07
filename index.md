@@ -4,6 +4,11 @@
 
 ## Header 2
 
+``` python
+user = "James Atkins"
+firstVar = "Hello World"
+```
+
 ### Header 3
 
 #### Header 4
